@@ -17,7 +17,7 @@
     "@rainbow-me/rainbowkit": "^2.1.2",
     "@tanstack/react-query": "^5.40.1",
     "framer-motion": "^11.2.10",
-    "opstack-kit": "^1.5.0",
+    "opstack-kit": "^1.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "viem": "^2.13.7",
